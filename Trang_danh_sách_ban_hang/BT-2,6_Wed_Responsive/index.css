@@ -1,0 +1,29 @@
+body {
+  font-family: "Courier New", Courier, monospace;
+  margin: 0;
+  padding: 0;
+  background-color: aliceblue;
+  display: none;
+  display: inline;
+  background-size: 2vw;
+}
+
+.for {
+  max-width: 600px;
+  margin: 20px auto;
+  background-color: rgb(255, 0, 200);
+  border-radius: 10px;
+  text-align: center;
+}
+
+@media (max-width: 400px) {
+  .for {
+    padding: 20px;
+  }
+}
+
+@media (max-width: 200px) {
+  .for {
+    font-size: 10px;
+  }
+}

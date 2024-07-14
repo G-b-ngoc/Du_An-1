@@ -1,0 +1,21 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: aliceblue;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.login {
+  background-color: antiquewhite;
+  padding: 40px;
+  border-radius: 10px;
+  box-shadow: center;
+}
+
+form {
+  margin-top: 20px;
+}

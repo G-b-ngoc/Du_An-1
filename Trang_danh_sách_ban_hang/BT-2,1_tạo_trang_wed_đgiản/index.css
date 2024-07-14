@@ -1,0 +1,26 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: aliceblue;
+  border: 0px;
+}
+.for {
+  font-size: large;
+}
+
+h1 {
+  color: deeppink;
+  background-color: crimson;
+  display: 10px auto;
+}
+
+p {
+  color: blue;
+  font-size: medium;
+  padding: 14px;
+}
+
+.co {
+  color: #e305efb5;
+}

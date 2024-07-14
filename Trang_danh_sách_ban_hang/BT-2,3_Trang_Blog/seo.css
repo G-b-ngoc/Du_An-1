@@ -1,0 +1,29 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: aliceblue;
+  display: flex;
+  text-align: center;
+  width: 800px;
+  height: 800px;
+}
+
+.tieude {
+  font: 100;
+  counter-reset: #0373fd;
+}
+#Nd-1 {
+  color: deeppink;
+  text-align: center;
+}
+
+#Nd-2 {
+  color: rgb(35, 21, 21);
+  text-align: center;
+}
+
+img {
+  width: 800px;
+  height: 550px;
+}

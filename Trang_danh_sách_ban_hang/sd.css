@@ -1,0 +1,43 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 5px;
+  padding: 5%;
+  background-color: rgb(59, 66, 66);
+}
+
+.product {
+  display: flex;
+  justify-content: space-around;
+  max-width: 500px;
+  margin: 20px auto;
+}
+
+.product-1 {
+  background-color: white;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  text-align: center;
+}
+
+.product-2 {
+  background-color: aquamarine;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  text-align: center;
+}
+
+.product-3 {
+  background-color: aquamarine;
+  padding: 1%;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  text-align: center;
+  size: 20px;
+}
+
+.img {
+  width: 150px;
+  height: 150px;
+}

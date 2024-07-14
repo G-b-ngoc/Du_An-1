@@ -1,0 +1,15 @@
+header {
+  border: 1px solid #ccc;
+  background-color: #f800f8e0;
+  color: white;
+  text-align: center;
+  padding-bottom: 15px;
+}
+
+h1 {
+  border: 1px solid #22fd05;
+  background-color: #f80000;
+  color: rgb(191, 255, 0);
+  text-align: center;
+  padding-bottom: 15px;
+}

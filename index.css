@@ -1,0 +1,21 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f0f0f0;
+}
+
+prfile {
+  max-width: 600%;
+  margin: 20% auto;
+  background-color: white;
+  padding: 20%;
+  border-radius: 10%;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+img {
+  width: 20px;
+  height: 20px;
+  border-radius: 25%;
+}

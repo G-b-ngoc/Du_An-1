@@ -1,0 +1,26 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: aliceblue;
+}
+.for {
+  max-width: 600px;
+  margin: 20px auto;
+  background-color: white;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: center;
+}
+
+@media (max-width: 768px) {
+  .for {
+    padding: 10px;
+  }
+}
+
+@media (max-height: 480px) {
+  .for {
+    font-size: 14px;
+  }
+}
